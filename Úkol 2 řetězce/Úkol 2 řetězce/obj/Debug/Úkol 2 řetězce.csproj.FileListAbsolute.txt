@@ -1,0 +1,12 @@
+E:\Programování\C#\Úkol 2 řetězce\Úkol 2 řetězce\bin\Debug\Úkol 2 řetězce.exe.config
+E:\Programování\C#\Úkol 2 řetězce\Úkol 2 řetězce\bin\Debug\Úkol 2 řetězce.exe
+E:\Programování\C#\Úkol 2 řetězce\Úkol 2 řetězce\bin\Debug\Úkol 2 řetězce.pdb
+E:\Programování\C#\Úkol 2 řetězce\Úkol 2 řetězce\obj\Debug\Úkol 2 řetězce.csproj.AssemblyReference.cache
+E:\Programování\C#\Úkol 2 řetězce\Úkol 2 řetězce\obj\Debug\Úkol_2_řetězce.Form2.resources
+E:\Programování\C#\Úkol 2 řetězce\Úkol 2 řetězce\obj\Debug\Úkol_2_řetězce.Properties.Resources.resources
+E:\Programování\C#\Úkol 2 řetězce\Úkol 2 řetězce\obj\Debug\Úkol 2 řetězce.csproj.GenerateResource.cache
+E:\Programování\C#\Úkol 2 řetězce\Úkol 2 řetězce\obj\Debug\Úkol 2 řetězce.csproj.CoreCompileInputs.cache
+E:\Programování\C#\Úkol 2 řetězce\Úkol 2 řetězce\obj\Debug\Úkol 2 řetězce.exe
+E:\Programování\C#\Úkol 2 řetězce\Úkol 2 řetězce\obj\Debug\Úkol 2 řetězce.pdb
+E:\Programování\C#\Úkol 2 řetězce\Úkol 2 řetězce\obj\Debug\Úkol_2_řetězce.Menu.resources
+E:\Programování\C#\Úkol 2 řetězce\Úkol 2 řetězce\obj\Debug\Úkol_2_řetězce.Form1.resources

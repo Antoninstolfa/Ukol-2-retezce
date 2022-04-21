@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Úkol 2 řetězce", "Úkol 2 řetězce\Úkol 2 řetězce.csproj", "{85020EB5-458A-4AE6-9C1F-A980F1C4C1F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85020EB5-458A-4AE6-9C1F-A980F1C4C1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85020EB5-458A-4AE6-9C1F-A980F1C4C1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85020EB5-458A-4AE6-9C1F-A980F1C4C1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85020EB5-458A-4AE6-9C1F-A980F1C4C1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0C8A594-4614-4AFC-8AD7-32E1FFF6500C}
+	EndGlobalSection
+EndGlobal
